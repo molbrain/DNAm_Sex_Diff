@@ -27,7 +27,7 @@ This is the scripts for Genome-wide mapping of sex-associated autosomal DNA meth
 For questions or issue reporting, please contact:
 
 - Name:   Yutaka Nakachi
-- Email:  nakachiy@kumamoto-u.ac.jp
+- Email:  nakachiy [at] kumamoto-u [dot] ac [dot] jp (Please replace [at] and [dot] with '@' and '.' respectively when using it)
 - Affil.: Department of Molecular Brain Science, Graduate School of Medical Sciences, Kumamoto University, Japan.
 
 ```
